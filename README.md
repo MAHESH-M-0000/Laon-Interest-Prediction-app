@@ -1,5 +1,11 @@
 # 💰 Loan Interest Rate Prediction using XGBoost & SHAP
 
+🚀 **[Live Streamlit App](https://loan-interest-prediction-app.streamlit.app/)**  
+📂 **[GitHub Repository](https://github.com/MAHESH-M-0000/Laon-Interest-Prediction-app)**
+
+---
+
+
 ## 📌 Project Overview
 
 This project develops a machine learning system to predict loan interest rates using borrower, loan, and credit-related information available at the time of loan issuance.
