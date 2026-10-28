@@ -32,12 +32,9 @@ def load_artifacts():
     model = joblib.load(MODEL_PATH)
     preprocessor = joblib.load(PREPROCESSOR_PATH)
     feature_names = joblib.load(FEATURE_NAMES_PATH)
-    shap_data = joblib.load(SHAP_DATA_PATH)
+    return model, preprocessor, feature_names
 
-    return model, preprocessor, feature_names, shap_data
-
-
-model, preprocessor, feature_names, shap_data = load_artifacts()
+model, preprocessor, feature_names = load_artifacts()
 
 
 # -----------------------------
