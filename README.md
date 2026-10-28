@@ -1,6 +1,6 @@
 # 💰 Loan Interest Rate Prediction using XGBoost & SHAP
 
-🚀 **[Live Streamlit App](https://loan-interest-prediction-app.streamlit.app/)**  
+🚀 **[Live Streamlit App](https://mahesh-m-0000-laon-interest-prediction-app-app-480gsf.streamlit.app/)**  
 📂 **[GitHub Repository](https://github.com/MAHESH-M-0000/Laon-Interest-Prediction-app)**
 
 ---
